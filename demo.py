@@ -1,5 +1,6 @@
 a = "test new text"
 print(a)
-print("Hello world !!!")
+print("Hello Mina from demo.py")
+print("Add more text")
 b = "New"
 print(b)
